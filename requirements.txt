@@ -1,5 +1,5 @@
 requests
-cv2
+opencv
 opencv-python
 numpy
 Pillow
