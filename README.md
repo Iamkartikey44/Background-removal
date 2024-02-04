@@ -3,3 +3,4 @@ Introducing a cutting-edge background removal project powered by the Segment Any
 
 
 ![demo](https://github.com/Iamkartikey44/Background-removal/assets/68707728/4ae0c846-b94d-4b58-8fe5-607e7e2ec16d)
+![App](https://background-removal.streamlit.app/)
